@@ -1,3 +1,4 @@
 this is a server_file.txt
 some changes
 local changes
+server changes 2
