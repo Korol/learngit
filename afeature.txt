@@ -1,1 +1,2 @@
 aFeature txt file into develop branch
+new line
